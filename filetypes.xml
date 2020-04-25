@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="AsyncCursorExtensions" type="C#" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="references" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
+      <removed_mapping ext="references" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>

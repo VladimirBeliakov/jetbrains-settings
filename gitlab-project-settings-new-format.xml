@@ -1,0 +1,20 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.sc.local/abbyy-language-services/smartcat.git" />
+          <option name="name" value="SmartCAT" />
+          <option name="namespace" value="Abbyy Language Services" />
+          <option name="sshUrl" value="git@gitlab.sc.local:abbyy-language-services/smartcat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.sc.local/abbyy-language-services/smartcat.git" />
+          <option name="name" value="SmartCAT" />
+          <option name="namespace" value="Abbyy Language Services" />
+          <option name="sshUrl" value="git@gitlab.sc.local:abbyy-language-services/smartcat.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

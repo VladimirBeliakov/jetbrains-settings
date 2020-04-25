@@ -1,0 +1,66 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="$Undo" />
+  <action id="ChangeSignature" />
+  <action id="CodeCleanup" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="m" />
+  </action>
+  <action id="Console.TableResult.PasteFormat">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="DatabaseView.MoveToGroup" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl w" />
+  </action>
+  <action id="EditorToggleUseSoftWraps" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="j" />
+  </action>
+  <action id="ExtractMethod" />
+  <action id="Inline" />
+  <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceVariable" />
+  <action id="ModifyObject" />
+  <action id="Move" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="RiderBackendAction-EncapsulateField" />
+  <action id="RiderTypeHierarchy.BaseOnThisType" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="SilentCodeCleanup" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TodoViewGroupByShowModules" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 5" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Unscramble" />
+  <action id="Vcs.ShowMessageHistory" />
+  <action id="sql.ExtractFunctionAction" />
+</keymap>

@@ -1,0 +1,11 @@
+<code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
